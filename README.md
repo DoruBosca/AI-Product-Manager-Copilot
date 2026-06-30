@@ -29,7 +29,7 @@ Generate comprehensive Product Requirement Documents from high-level business ob
 - Success metrics recommendation
 - Risk and dependency identification
 
-<img width="1899" height="857" alt="image" src="https://github.com/user-attachments/assets/be0133a8-13b8-4e8b-81b9-766d154096d7" />
+<img width="1888" height="864" alt="image" src="https://github.com/user-attachments/assets/6e886747-b73e-478d-8de0-df5e532be309" />
 
 ---
 
@@ -51,6 +51,8 @@ Convert requirements and product ideas into actionable Agile user stories.
 > I want to receive real-time order notifications,
 > so that I can track my purchases effectively.
 
+<img width="1888" height="859" alt="image" src="https://github.com/user-attachments/assets/24852ecc-ba35-4142-ac26-570cd3e8b1fa" />
+
 ---
 
 ### 🗺️ Roadmap Recommendations
@@ -65,6 +67,8 @@ Generate data-driven roadmap suggestions based on product strategy, customer nee
 - Product goal alignment
 - Theme-based roadmap generation
 
+<img width="1889" height="866" alt="image" src="https://github.com/user-attachments/assets/751cd12b-522e-40eb-8b21-4dfec958994c" />
+
 ---
 
 ### 📋 Backlog Refinement
@@ -78,6 +82,8 @@ Improve backlog quality and readiness for development teams.
 - Priority recommendations
 - Dependency analysis
 - Sprint readiness assessment
+
+<img width="1886" height="869" alt="image" src="https://github.com/user-attachments/assets/249dc191-033d-42fc-8eac-651d3b93d21a" />
 
 ---
 
