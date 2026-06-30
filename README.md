@@ -207,11 +207,3 @@ Contributions, ideas, and feedback are welcome. Please open an issue or submit a
 This project is licensed under the MIT License.
 
 ---
-
-## 👤 Author
-
-**Bosca Doru**
-
-AI Product Manager | Enterprise Transformation Leader | Generative AI Enthusiast
-
-Building practical AI solutions that empower modern product organizations.
