@@ -29,6 +29,8 @@ Generate comprehensive Product Requirement Documents from high-level business ob
 - Success metrics recommendation
 - Risk and dependency identification
 
+<img width="1899" height="857" alt="image" src="https://github.com/user-attachments/assets/be0133a8-13b8-4e8b-81b9-766d154096d7" />
+
 ---
 
 ### 📝 User Story Writing
