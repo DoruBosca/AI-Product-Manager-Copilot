@@ -4,6 +4,8 @@ An AI-powered Product Management Assistant that helps product teams accelerate t
 
 The AI Product Manager Copilot streamlines key product management activities by generating Product Requirement Documents (PRDs), creating user stories, recommending roadmap priorities, and refining product backlogs. It enables Product Managers, Product Owners, Business Analysts, and Digital Transformation teams to focus more on strategy and customer value while reducing time spent on repetitive documentation tasks.
 
+<img width="1909" height="905" alt="image" src="https://github.com/user-attachments/assets/fab8a1b1-592a-41e8-9300-ac450f529bf3" />
+
 ---
 
 ## 🚀 Overview
