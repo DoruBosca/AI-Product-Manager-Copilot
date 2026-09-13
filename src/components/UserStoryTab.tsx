@@ -385,7 +385,7 @@ export default function UserStoryTab({
                   <div className="flex items-center gap-2 border-b border-gray-100 pb-2">
                     <Tag className="w-3.5 h-3.5 text-blue-500" />
                     <span className="font-display font-bold text-gray-800 text-sm tracking-tight">
-                      EPIC: {epicName}
+                      {epicName}
                     </span>
                     <span className="text-[10px] text-gray-400 font-mono">({stories.length} stories)</span>
                   </div>
